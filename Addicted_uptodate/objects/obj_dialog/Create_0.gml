@@ -1,5 +1,4 @@
-text[0] =" ";
-text[1] =" ";
+text[0] ="";
 
 text_current = 0;
 text_last = 1;

@@ -1,19 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dialog",
+  "%Name":"obj_controller_trash_money",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_dialog",
+  "name":"obj_controller_trash_money",
   "overriddenProperties":[],
   "parent":{
     "name":"obj_dialogues",
     "path":"folders/Objects/obj_dialogues.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_dialog_parent",
+    "path":"objects/obj_dialog_parent/obj_dialog_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

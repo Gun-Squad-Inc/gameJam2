@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dialogue_screen",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":77,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_trash",
+  "eventList":[],
   "managed":true,
-  "name":"obj_dialogue_screen",
+  "name":"obj_trash",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_dialogues",
-    "path":"folders/Objects/obj_dialogues.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_dialogue_screen16",
-    "path":"sprites/spr_dialogue_screen16/spr_dialogue_screen16.yy",
+    "name":"spr_trash",
+    "path":"sprites/spr_trash/spr_trash.yy",
   },
   "spriteMaskId":null,
   "visible":true,

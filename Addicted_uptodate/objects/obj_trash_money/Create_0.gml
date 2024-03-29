@@ -1,0 +1,2 @@
+destroy_text = false;
+

@@ -8,8 +8,8 @@
   "name":"obj_dialog_cashier_welcome",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"obj_dialogues",
+    "path":"folders/Objects/obj_dialogues.yy",
   },
   "parentObjectId":null,
   "persistent":false,
