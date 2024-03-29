@@ -9,3 +9,6 @@ sprite[LEFT] = spr_player_pixel_left_walk
 sprite[DOWN] = spr_player_pixel_down_walk
 
 face = DOWN;
+
+//can walk
+can_walk = true;

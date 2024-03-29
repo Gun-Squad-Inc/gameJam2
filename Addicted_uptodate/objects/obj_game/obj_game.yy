@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cashier",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_game",
+  "eventList":[],
   "managed":true,
-  "name":"obj_cashier",
+  "name":"obj_game",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"cashier",
-    "path":"sprites/cashier/cashier.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

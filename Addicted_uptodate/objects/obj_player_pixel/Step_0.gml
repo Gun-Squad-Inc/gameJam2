@@ -1,3 +1,10 @@
+//animate
+if xspd == 0 && yspd == 0{
+	image_index = 0;
+}
+
+//check foe exit
+if (!can_walk) exit;
 var _right_key = keyboard_check(vk_right)
 var _left_key = keyboard_check(vk_left)
 var _up_key = keyboard_check(vk_up)
@@ -36,7 +43,3 @@ x +=xspd;
 y +=yspd;
 
 
-//animate
-if xspd == 0 && yspd == 0{
-	image_index = 0;
-}

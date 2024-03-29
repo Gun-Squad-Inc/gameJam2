@@ -8,7 +8,9 @@ else
     text_current += 1;
     if (text_current > text_last)
         {
-        room_restart();
+		obj_player_pixel.can_walk = true;
+		instance_destroy(obj_dialogue_screen);
+        instance_destroy();
         }
     else
         {

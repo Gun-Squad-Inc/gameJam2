@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cashier",
+  "%Name":"obj_dialogue_screen",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":77,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_cashier",
+  "name":"obj_dialogue_screen",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"cashier",
-    "path":"sprites/cashier/cashier.yy",
+    "name":"spr_dialogue_screen16",
+    "path":"sprites/spr_dialogue_screen16/spr_dialogue_screen16.yy",
   },
   "spriteMaskId":null,
   "visible":true,
