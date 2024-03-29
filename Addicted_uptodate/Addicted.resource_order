@@ -25,6 +25,7 @@
     {"name":"obj_game","order":6,"path":"objects/obj_game/obj_game.yy",},
     {"name":"obj_player_pixel","order":1,"path":"objects/obj_player_pixel/obj_player_pixel.yy",},
     {"name":"obj_table","order":7,"path":"objects/obj_table/obj_table.yy",},
+    {"name":"obj_dialog_cashier_welcome","order":8,"path":"objects/obj_dialog_cashier_welcome/obj_dialog_cashier_welcome.yy",},
     {"name":"string_wrap","order":1,"path":"scripts/string_wrap/string_wrap.yy",},
     {"name":"cashier","order":6,"path":"sprites/cashier/cashier.yy",},
     {"name":"spr_dialogue_screen","order":12,"path":"sprites/spr_dialogue_screen/spr_dialogue_screen.yy",},
@@ -33,7 +34,7 @@
     {"name":"spr_player_pixel_left_walk","order":9,"path":"sprites/spr_player_pixel_left_walk/spr_player_pixel_left_walk.yy",},
     {"name":"spr_player_pixel_right_walk","order":10,"path":"sprites/spr_player_pixel_right_walk/spr_player_pixel_right_walk.yy",},
     {"name":"spr_player_pixel_up_walk","order":7,"path":"sprites/spr_player_pixel_up_walk/spr_player_pixel_up_walk.yy",},
-    {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_table","order":13,"path":"sprites/spr_table/spr_table.yy",},
+    {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
   ],
 }
