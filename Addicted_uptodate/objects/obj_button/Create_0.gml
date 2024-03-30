@@ -1,2 +1,0 @@
-text = "";
-answer ="yes";

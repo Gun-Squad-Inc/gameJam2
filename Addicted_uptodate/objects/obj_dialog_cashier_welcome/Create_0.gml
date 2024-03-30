@@ -17,14 +17,7 @@ with(_inst)
     text[text_current] = string_wrap(text[text_current], text_width);
  	
     }
-	
-//buttons
-var _yes = instance_create_layer(230,360,"Dialogue",obj_button);
-var _no = instance_create_layer(330,360,"Dialogue",obj_button);
-with(_yes){
-	text = "YES";
-}
-with(_no){
-	text = "NO";
-}
+ idi = layer_instance_get_instance(_inst);
+
+
 

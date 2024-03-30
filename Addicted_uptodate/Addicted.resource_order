@@ -24,6 +24,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"fnt_controlls","order":1,"path":"fonts/fnt_controlls/fnt_controlls.yy",},
+    {"name":"obj_button_yes","order":1,"path":"objects/obj_button_yes/obj_button_yes.yy",},
     {"name":"obj_cashier","order":1,"path":"objects/obj_cashier/obj_cashier.yy",},
     {"name":"obj_controller_trash_money","order":1,"path":"objects/obj_controller_trash_money/obj_controller_trash_money.yy",},
     {"name":"obj_controller_welcome","order":2,"path":"objects/obj_controller_welcome/obj_controller_welcome.yy",},
@@ -36,9 +37,11 @@
     {"name":"obj_table","order":7,"path":"objects/obj_table/obj_table.yy",},
     {"name":"obj_trash_money","order":3,"path":"objects/obj_trash_money/obj_trash_money.yy",},
     {"name":"obj_trash","order":11,"path":"objects/obj_trash/obj_trash.yy",},
+    {"name":"obj_button_no","order":2,"path":"objects/obj_button_no/obj_button_no.yy",},
     {"name":"string_wrap","order":1,"path":"scripts/string_wrap/string_wrap.yy",},
     {"name":"cashier","order":1,"path":"sprites/cashier/cashier.yy",},
     {"name":"main_arcade","order":14,"path":"sprites/main_arcade/main_arcade.yy",},
+    {"name":"spr_button","order":17,"path":"sprites/spr_button/spr_button.yy",},
     {"name":"spr_dialogue_screen","order":12,"path":"sprites/spr_dialogue_screen/spr_dialogue_screen.yy",},
     {"name":"spr_dialogue_screen16","order":11,"path":"sprites/spr_dialogue_screen16/spr_dialogue_screen16.yy",},
     {"name":"spr_player_pixel_left_walk","order":2,"path":"sprites/spr_player_pixel_left_walk/spr_player_pixel_left_walk.yy",},
@@ -47,6 +50,5 @@
     {"name":"spr_table","order":13,"path":"sprites/spr_table/spr_table.yy",},
     {"name":"spr_trash","order":15,"path":"sprites/spr_trash/spr_trash.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
-    {"name":"spr_button","order":17,"path":"sprites/spr_button/spr_button.yy",},
   ],
 }
