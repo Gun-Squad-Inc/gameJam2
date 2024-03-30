@@ -5,7 +5,7 @@ text_last = 1;
 text_width = 170;
 text_x = 200;
 text_y = 310;
-destroy = "";
+buttons_created = false;
 
 
 char_current = 1;
