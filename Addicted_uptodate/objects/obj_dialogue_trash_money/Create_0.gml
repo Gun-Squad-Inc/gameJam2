@@ -6,9 +6,10 @@ with(_inst)
 	
 	text_current = 0;
     text_last = 0;
-    text_width = 250;
+    text_width = 280;
     text_x = 200;
     text_y = 310;
+	instance_name = obj_trash_money;
 
     char_current = 1;
     char_speed = 0.25;
@@ -16,3 +17,4 @@ with(_inst)
     text[text_current] = string_wrap(text[text_current], text_width);
  	
     }
+obj_game.money= 10;

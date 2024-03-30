@@ -12,6 +12,14 @@ if(!buttons_created){
 	        {
 			    obj_player_pixel.can_walk = true;
 			    instance_destroy(obj_dialogue_screen);
+				//here to repeat or not
+				name.destroy_text= false;
+				
+				//next room
+				if (new_room){
+					room_goto(rm_spacewar);
+				}
+				
 				instance_destroy();
 	        }
 	    else

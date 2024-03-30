@@ -7,6 +7,11 @@ text_x = 200;
 text_y = 310;
 buttons_created = false;
 
+//destroy text
+name = obj_cashier;
+
+//new room
+new_room = false;
 
 char_current = 1;
 char_speed = 0.25;
