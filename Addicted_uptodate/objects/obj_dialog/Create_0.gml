@@ -5,6 +5,7 @@ text_last = 1;
 text_width = 170;
 text_x = 200;
 text_y = 310;
+destroy = "";
 
 
 char_current = 1;

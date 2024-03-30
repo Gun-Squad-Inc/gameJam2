@@ -9,8 +9,11 @@ else
     if (text_current > text_last)
         {
 		obj_player_pixel.can_walk = true;
-		instance_destroy(obj_dialogue_screen);
-        instance_destroy();
+			if(destroy != ""){
+				//to show or not the dialog
+			}
+			instance_destroy(obj_dialogue_screen);
+			instance_destroy();
         }
     else
         {

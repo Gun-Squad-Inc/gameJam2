@@ -8,8 +8,8 @@
   "name":"obj_dialogue_trash_money",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_dialogues",
-    "path":"folders/Objects/obj_dialogues.yy",
+    "name":"dialogues",
+    "path":"folders/Objects/obj_dialogues/dialogues.yy",
   },
   "parentObjectId":null,
   "persistent":false,

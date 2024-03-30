@@ -9,8 +9,8 @@
   "name":"obj_player_pixel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"objects_objects",
+    "path":"folders/Objects/objects_objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

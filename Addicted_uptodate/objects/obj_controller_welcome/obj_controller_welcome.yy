@@ -9,8 +9,8 @@
   "name":"obj_controller_welcome",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_dialogues",
-    "path":"folders/Objects/obj_dialogues.yy",
+    "name":"controllers",
+    "path":"folders/Objects/obj_dialogues/controllers.yy",
   },
   "parentObjectId":{
     "name":"obj_dialog_parent",
